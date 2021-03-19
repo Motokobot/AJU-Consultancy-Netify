@@ -1,2 +1,2 @@
-# AJU-Consultancy-Netify
-The AJU Consultancy site hosted on Netify servers
+# Student-Admission-Portal
+A student admission portal for an AJU student's project
