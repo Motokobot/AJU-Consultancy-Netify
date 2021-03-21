@@ -1106,7 +1106,7 @@ select::-ms-expand {
 @media (min-width:992px) {
     .step {
         border-top: none;
-        width: auto
+        /* width: auto */
     }
 }
 
